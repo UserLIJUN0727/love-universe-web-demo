@@ -1,3 +1,3 @@
 # Universe For HJY
 
-Pseudonymous gift release. Decorative Virgo and Scorpio constellations carry no personal role labels. No real identity, photographs or relationship date. Static assets only.
+Resilient startup: nonblocking subset fonts, deferred 3D scene and retryable network errors. Ayasa Kokuhaku no Yoru uses an official 30-second Apple preview stream, clearly labelled. No real identity, date or photographs.

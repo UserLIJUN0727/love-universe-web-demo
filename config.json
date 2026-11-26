@@ -21,10 +21,12 @@
   "hiddenMessage": "我的心动，从来不是随机事件。",
   "secretMessage": "我的未来，永远给你留着位置。",
   "music": {
-    "src": "audio/starlight-original.wav",
-    "title": "为你写的一小段星光 · 原创合成",
+    "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/da/0e/95da0e7e-f7af-180e-4587-8820ef0804b3/mzaf_9001766023095852021.plus.aac.p.m4a",
+    "title": "告白の夜 · Ayasa（官方试听片段）",
     "volume": 0.28,
-    "synthesizedFallback": true
+    "synthesizedFallback": false,
+    "sourcePage": "https://music.apple.com/jp/album/%E5%91%8A%E7%99%BD%E3%81%AE%E5%A4%9C/1322944840?i=1322945570&uo=4",
+    "preview": true
   },
   "memories": [],
   "theme": {
