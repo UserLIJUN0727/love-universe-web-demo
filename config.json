@@ -37,7 +37,10 @@
     "minParticles": 5000,
     "maxParticles": 15000,
     "gatherSeconds": 4.5,
-    "typewriterMs": 48
+    "typewriterMs": 48,
+    "starDensity": 1.15,
+    "galaxyBrightness": 1.1,
+    "meteorIntensity": 1.15
   },
   "demo": true,
   "pageTitle": "For My Baby ♡",
