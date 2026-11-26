@@ -1,10 +1,57 @@
 {
-  "siteName":"星光宇宙 · 匿名演示","englishTitle":"A Universe For You","name":"星光","nickname":"旅人","englishName":"STARRY SKY","initials":"SKY","relationshipStart":null,
-  "welcome":"每一段认真珍惜的故事，都值得拥有自己的星空。","heartCaption":"让一颗颗星光，为此刻的相遇而跳动。",
-  "letter":"亲爱的旅人：\n\n这是一封用于展示交互效果的示范信。\n\n星光在这里聚合，时间在这里慢下来。你可以轻触信封，读完这段由程序慢慢展开的文字。\n\n愿每一个认真生活的人，都能在平凡日子里找到属于自己的光。\n\n此页面没有真实姓名、私人情书、个人照片或恋爱日期。",
-  "quotes":["给平凡的日子，留一小片会发光的天空。","夜色很深，也总有一颗星愿意亮着。","愿每一个等待，都能等到温柔的回答。"],
-  "finalePhrase":"把爱写进星光","closing":"愿每一个值得珍惜的故事，都有温柔的续章。","hiddenMessage":"慢一点，也能听见星光的回声。","secretMessage":"愿你的下一段旅程，与美好不期而遇。",
-  "music":{"src":"audio/starlight-original.wav","title":"一小段星光 · 原创合成","volume":0.28,"synthesizedFallback":true},
-  "memories":[],"theme":{"background":"#090914","rose":"#edb5c7","violet":"#8e77bc","gold":"#d8bf94"},
-  "animation":{"minParticles":5000,"maxParticles":15000,"gatherSeconds":4.5,"typewriterMs":48},"demo":true
+  "siteName": "宝宝的专属宇宙",
+  "englishTitle": "Universe For HJY",
+  "name": "HJY",
+  "nickname": "宝宝",
+  "englishName": "HJY",
+  "initials": "HJY",
+  "relationshipStart": null,
+  "welcome": "宝宝，欢迎来到属于你的宇宙。",
+  "heartCaption": "宝宝，你是我平凡生活里最耀眼的星星。",
+  "letter": "亲爱的旅人：\n\n这是一封仅用于验证交互的示范信。\n\n星光在这里聚合，时间在这里慢下来。\n\n正式情书尚未公开，此页面没有个人照片或真实恋爱日期。",
+  "quotes": [
+    "宝宝，今天也比昨天更喜欢你。",
+    "HJY 是我的唯一解。",
+    "我的心动，从来不是随机事件。",
+    "遇见你，是我最幸运的事。",
+    "我的未来，永远给你留着位置。"
+  ],
+  "finalePhrase": "宝宝，我爱你",
+  "closing": "世界有很多种浪漫，而我的浪漫，都与你有关。",
+  "hiddenMessage": "我的心动，从来不是随机事件。",
+  "secretMessage": "我的未来，永远给你留着位置。",
+  "music": {
+    "src": "audio/starlight-original.wav",
+    "title": "为你写的一小段星光 · 原创合成",
+    "volume": 0.28,
+    "synthesizedFallback": true
+  },
+  "memories": [],
+  "theme": {
+    "background": "#090914",
+    "rose": "#edb5c7",
+    "violet": "#8e77bc",
+    "gold": "#d8bf94"
+  },
+  "animation": {
+    "minParticles": 5000,
+    "maxParticles": 15000,
+    "gatherSeconds": 4.5,
+    "typewriterMs": 48
+  },
+  "demo": true,
+  "pageTitle": "For My Baby ♡",
+  "browserTitle": "HJY · Love Universe",
+  "openingTitle": "FOR MY BABY",
+  "openingSubtitle": "宇宙很大，但我的偏爱只给你。",
+  "enterLabel": "开启专属浪漫 ♡",
+  "orbitTexts": [
+    "HJY",
+    "MY ONLY LOVE",
+    "FOREVER WITH YOU"
+  ],
+  "timeTitle": "我们的时间",
+  "timeSubtitle": "每一段故事，都值得认真记录。",
+  "envelopeText": "To My Baby ♡",
+  "finaleLoveText": "LOVE YOU"
 }
