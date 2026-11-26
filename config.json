@@ -5,7 +5,7 @@
   "nickname": "宝宝",
   "englishName": "HJY",
   "initials": "HJY",
-  "relationshipStart": null,
+  "relationshipStart": "2026-10-25T11:26:00+08:00",
   "welcome": "宝宝，欢迎来到属于你的宇宙。",
   "heartCaption": "宝宝，你是我平凡生活里最耀眼的星星。",
   "letter": "亲爱的宝宝：\n\n宇宙有数不清的星星，\n而我只想牵住你的手。\n\n喜欢你，不是因为某个特别的瞬间，\n而是因为和你在一起，\n每一个普通的瞬间都变得特别。\n\n我想陪你度过无数个春夏秋冬，\n分享生活里的琐碎与美好。\n\n未来的日子还很长，\n我想慢慢走，也想一直陪着你走。\n\n宝宝，我爱你。",
@@ -55,7 +55,7 @@
     "MY ONLY LOVE",
     "FOREVER WITH YOU"
   ],
-  "timeTitle": "属于我们的第 32 天",
+  "timeTitle": "属于我们的第 {days} 天",
   "timeSubtitle": "和宝宝在一起的每一天，都值得被记录。",
   "envelopeText": "To My Baby ♡",
   "finaleLoveText": "LOVE YOU",
@@ -69,5 +69,6 @@
     },
     "caption": "星轨不同，心意同向。",
     "message": "星轨不同，心意同向。愿每一次抬头，都有星光回应。"
-  }
+  },
+  "relationshipTimezone": "Asia/Shanghai"
 }
