@@ -70,5 +70,51 @@
     "caption": "星轨不同，心意同向。",
     "message": "星轨不同，心意同向。愿每一次抬头，都有星光回应。"
   },
-  "relationshipTimezone": "Asia/Shanghai"
+  "relationshipTimezone": "Asia/Shanghai",
+  "heartExpressions": [
+    {
+      "id": "heart",
+      "label": "心动",
+      "shape": "heart",
+      "message": "宝宝，你是我平凡生活里最耀眼的星星。"
+    },
+    {
+      "id": "name",
+      "label": "唯一",
+      "shape": "name",
+      "message": "星河有无数坐标，我的心只指向 HJY。"
+    },
+    {
+      "id": "double-heart",
+      "label": "相伴",
+      "shape": "double-heart",
+      "message": "两颗心慢慢靠近，把往后的日子过成我们。"
+    },
+    {
+      "id": "infinity",
+      "label": "永远",
+      "shape": "infinity",
+      "message": "喜欢没有终点，想陪你走很远很远。"
+    },
+    {
+      "id": "flower",
+      "label": "盛放",
+      "shape": "flower",
+      "message": "把心意种进星河，每一次盛放都为你。"
+    },
+    {
+      "id": "love",
+      "label": "告白",
+      "shape": "text",
+      "text": "LOVE YOU",
+      "message": "想说的千言万语，最后都变成一句：我爱你。"
+    },
+    {
+      "id": "devotion",
+      "label": "偏爱",
+      "shape": "text",
+      "text": "只偏爱你",
+      "message": "世界有许多美好，而你是我最认真的偏爱。"
+    }
+  ]
 }
