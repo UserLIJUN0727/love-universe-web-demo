@@ -1,3 +1,3 @@
 # Universe For HJY
 
-Live relationship clock uses the user-supplied October 25, 2026, 11:26 Beijing start. No real name or photographs.
+Resilient particle sky: a full native Canvas galaxy starts with the UI. The optional WebGL backend upgrades in place when available; failed or slow GPU module requests cannot stop native stars, heart, meteors or fireworks. No hard scene-loading timeout. User-approved relationship clock and clearly labelled official Ayasa music preview are preserved.
