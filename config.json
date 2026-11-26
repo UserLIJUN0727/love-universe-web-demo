@@ -8,7 +8,7 @@
   "relationshipStart": null,
   "welcome": "宝宝，欢迎来到属于你的宇宙。",
   "heartCaption": "宝宝，你是我平凡生活里最耀眼的星星。",
-  "letter": "亲爱的旅人：\n\n这是一封仅用于验证交互的示范信。\n\n星光在这里聚合，时间在这里慢下来。\n\n正式情书尚未公开，此页面没有个人照片或真实恋爱日期。",
+  "letter": "亲爱的宝宝：\n\n宇宙有数不清的星星，\n而我只想牵住你的手。\n\n喜欢你，不是因为某个特别的瞬间，\n而是因为和你在一起，\n每一个普通的瞬间都变得特别。\n\n我想陪你度过无数个春夏秋冬，\n分享生活里的琐碎与美好。\n\n未来的日子还很长，\n我想慢慢走，也想一直陪着你走。\n\n宝宝，我爱你。",
   "quotes": [
     "宝宝，今天也比昨天更喜欢你。",
     "HJY 是我的唯一解。",
@@ -42,7 +42,7 @@
     "galaxyBrightness": 1.1,
     "meteorIntensity": 1.15
   },
-  "demo": true,
+  "demo": false,
   "pageTitle": "For My Baby ♡",
   "browserTitle": "HJY · Love Universe",
   "openingTitle": "FOR MY BABY",
@@ -53,8 +53,19 @@
     "MY ONLY LOVE",
     "FOREVER WITH YOU"
   ],
-  "timeTitle": "我们的时间",
-  "timeSubtitle": "每一段故事，都值得认真记录。",
+  "timeTitle": "属于我们的第 32 天",
+  "timeSubtitle": "和宝宝在一起的每一天，都值得被记录。",
   "envelopeText": "To My Baby ♡",
-  "finaleLoveText": "LOVE YOU"
+  "finaleLoveText": "LOVE YOU",
+  "zodiac": {
+    "enabled": true,
+    "left": {
+      "sign": "virgo"
+    },
+    "right": {
+      "sign": "scorpio"
+    },
+    "caption": "星轨不同，心意同向。",
+    "message": "星轨不同，心意同向。愿每一次抬头，都有星光回应。"
+  }
 }
